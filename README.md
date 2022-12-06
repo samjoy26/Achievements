@@ -23,13 +23,12 @@ Received recognition from the following organizations for reporting Application 
 
 &nbsp;&nbsp;&nbsp;➤ Listed in Ford Hall of Fame for reporting security vulnerability in Ford owned web application.
 
+&nbsp;&nbsp;&nbsp;➤ Hackerone Profile link: https://hackerone.com/samjoy_26
+
 &nbsp;&nbsp;&nbsp;➤ HOF Link: https://hackerone.com/ford/thanks/2021
 
 <img src='https://user-images.githubusercontent.com/64733080/205908615-0a3769b8-2025-462b-acf3-e50bc8d18adb.png' alt='Ford-HOF' height='300'>
 
-<img src='https://user-images.githubusercontent.com/64733080/205910369-ccc82231-3f77-498b-af1c-8e2b14b96c33.png' alt='Ford-HOF' height='300'>
-
-&nbsp;&nbsp;&nbsp;➤ Hackerone Profile link: https://hackerone.com/samjoy_26
 
 
 
