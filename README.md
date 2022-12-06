@@ -2,7 +2,9 @@
 
 Received recognition from the following organizations for reporting Application Security Risks.
 
+[<img src='https://user-images.githubusercontent.com/64733080/205905855-f08f8433-201f-4327-970f-04333d6b3d0c.png' alt='Ford' height='70'>](https://github.com/samjoy26/Achievements#Ford-hall-of-fame) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://user-images.githubusercontent.com/64733080/193914043-43d755e4-0138-4a5e-ac96-cec9d93c2055.png' alt='google' height='70'>](https://github.com/samjoy26/Achievements#google-hall-of-fame) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://user-images.githubusercontent.com/64733080/205906728-9dd91e19-2d72-4676-b093-616301d6d263.png' alt='Apple' height='70'>](https://github.com/samjoy26/Achievements#Apple-hall-of-fame) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://user-images.githubusercontent.com/64733080/193913318-015d856f-b819-4df0-a2db-ee6a1018ab32.png' alt='facebook' height='70'>](https://github.com/samjoy26/Achievements#rewarded-500-from-facebook-backend-cryptocurrency-project-diem) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://user-images.githubusercontent.com/64733080/193914905-76329331-5d58-4382-8f3f-82968a0aea49.png' alt='microsoft' height='70'>](https://github.com/samjoy26/Achievements#microsoft-hall-of-fame) &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src='https://user-images.githubusercontent.com/64733080/193912987-7c6018f7-fb43-4df5-9444-c94e3347b5d1.png' alt='aws' height='70'>](https://github.com/samjoy26/Achievements#appreciation-from-amazon-web-service) &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -15,7 +17,25 @@ Received recognition from the following organizations for reporting Application 
 
 
 
+&nbsp;
+&nbsp;
+> ## Ford Hall of Fame
 
+&nbsp;&nbsp;&nbsp;➤ Listed in Ford Hall of Fame for reporting security vulnerability in Ford owned web application.
+
+&nbsp;&nbsp;&nbsp;➤ HOF Link: https://hackerone.com/ford/thanks/2021
+
+<img src='https://user-images.githubusercontent.com/64733080/205908615-0a3769b8-2025-462b-acf3-e50bc8d18adb.png' alt='Ford-HOF' height='300'>
+
+<img src='https://user-images.githubusercontent.com/64733080/205910369-ccc82231-3f77-498b-af1c-8e2b14b96c33.png' alt='Ford-HOF' height='300'>
+
+&nbsp;&nbsp;&nbsp;➤ Hackerone Profile link: https://hackerone.com/samjoy_26
+
+
+
+
+
+&nbsp;
 &nbsp;
 > ## Google Hall of Fame
 
@@ -28,6 +48,18 @@ Received recognition from the following organizations for reporting Application 
 ![Google](https://user-images.githubusercontent.com/64733080/192446320-ada59965-78e5-4aef-9e31-39f1b722bff8.PNG)
 
 <img src='https://user-images.githubusercontent.com/64733080/194775823-962a1233-ea90-465c-9567-e2a070b2b3ee.png' alt='google-email' height='450'>
+
+
+
+
+
+&nbsp;
+&nbsp;
+> ## Apple Hall of Fame
+
+&nbsp;&nbsp;&nbsp;➤ Reported security vulnerability in Apple owned Web Application.
+
+<img src='https://user-images.githubusercontent.com/64733080/205911163-4a427f02-109d-489b-9f2e-abfd25d3ae16.jpg' alt='Apple-email' height='450'>
 
 
 
