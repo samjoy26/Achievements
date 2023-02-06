@@ -58,6 +58,8 @@ Received recognition from the following organizations for reporting Application 
 
 &nbsp;&nbsp;&nbsp;➤ Reported security vulnerability in Apple owned Web Application.
 
+![Apple](https://user-images.githubusercontent.com/64733080/217047225-e6b139e6-47ac-40df-a16e-0740b1399770.jpeg)
+
 <img src='https://user-images.githubusercontent.com/64733080/205911163-4a427f02-109d-489b-9f2e-abfd25d3ae16.jpg' alt='Apple-email' height='450'>
 
 
